@@ -4,6 +4,8 @@ def fib_loop(n):
    
     It uses for loop to calculate it.
     '''
+    for i in range(n):
+	print(i)
 
     
 def fib_recursion(n):
